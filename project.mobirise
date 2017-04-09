@@ -150,7 +150,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<p>\"All Happiness Depends on a Lesiurely Breakfast\" </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-John Gunther</p>",
+          "title": "<p>\"All Happiness Depends on a Lesiurely Breakfast\"</p><p><span style=\"line-height: 1.1;\">-John Gunther</span></p>",
           "text": "<br>Don't have time for breakfast?<br>Don't know how to cook?<br>On a diet?<br>Morning Glory will help you eat a healthy breakfast that is easy to make and time-saving!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
           "_styles": {
@@ -289,35 +289,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
